@@ -1,5 +1,7 @@
 # complexity
-Complexity indexes from comparative advantage tables Use complexity With STATA 18
+Complexity indexes from comparative advantage tables Use complexity With STATA 19
+
+Computes indexes of the complexity of specialization patterns Use complexity With STATA 19
 
 Olah Data Semarang
 
